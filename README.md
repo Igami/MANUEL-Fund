@@ -101,13 +101,26 @@ MANUEL
 
 ### Kurzbeschreibung
 
-Seit März 2019 veranstaltet der Makerspace Gütersloh in Kooperation mit der Stadtbibliothek Gütersloh jeden Monat ein Repair Café. Das Ziel besteht darin, Nachbarschaftshilfe zu leisten, indem gemeinsam mit den Gästen defekte Gegenstände analysiert und repariert werden. Damit setzen wir ein Zeichen gegen die Wegwerfgesellschaft und fördern einen nachhaltigen und ressourcenschonenden Umgang mit Technik.
+Der Makerspace Gütersloh ist ein offener Ort für gemeinschaftliches Lernen, kreatives Arbeiten und technischen Austausch. Engagierte Bürgerinnen und Bürger können hier eigene Projekte umsetzen, Wissen teilen und sich aktiv in die lokale Gemeinschaft einbringen.
 
-Im Rahmen des Projekts „MANUEL” (Minimale KI für Nutzerunterstützung auf Einstiegslevel) möchten wir die Möglichkeiten moderner KI-Technologien für das ehrenamtliche Engagement niedrigschwellig nutzbar machen. Hierzu soll ein kompakter und energieeffizienter Mac mini der vierten Generation oder ein vergleichbares Modell angeschafft werden. Aufgrund seiner integrierten GPU und optimierten Systemarchitektur eignet er sich besonders für lokale KI-Anwendungen. Dies ermöglicht den datenschutzfreundlichen Betrieb eines lokalen Large Language Models (LLM), ohne dass externe Cloud-Dienste genutzt werden müssen.
+Seit März 2019 veranstalten wir in Kooperation mit der Stadtbibliothek Gütersloh monatlich ein Repair Café. Ziel ist es, gemeinsam mit Gästen defekte Gegenstände zu analysieren und zu reparieren. Damit leisten wir Nachbarschaftshilfe, wirken der Wegwerfgesellschaft entgegen und fördern einen nachhaltigen Umgang mit Technik.
 
-Das LLM soll in unser bestehendes Ticketsystem Zammad integriert werden, welches dies seit der aktuellen Version 7 spezifisch unterstützt. Dort soll es als „Level-0-Support“ fungieren. Konkret unterstützt es bei der Erstdiagnose von Defekten anhand von Problembeschreibungen, der strukturierten Aufnahme und Kategorisierung von Reparaturanfragen, der automatischen Erstellung und Pflege von Reparaturanleitungen in unserem Wiki sowie der Unterstützung von Ehrenamtlichen durch Vorschläge für Lösungsansätze.
+Zur Organisation der Termine und des E-Mail-Verkehrs nutzen wir seit November 2022 das Ticketsystem Zammad, seit 2025 auch für weitere Veranstaltungen wie „Türen auf mit der Maus“. Es hat sich als zentrale Plattform für Kommunikation und Dokumentation etabliert.
 
-Dadurch wird Wissen langfristig dokumentiert und für alle zugänglich gemacht. Gleichzeitig werden neue Engagierte befähigt, sich auch ohne tiefgehende Vorkenntnisse einzubringen. Das Projekt verbindet digitale Innovation mit praktischem Ehrenamt und stärkt so nachhaltig die lokale Gemeinschaft.
+Im Projekt „MANUEL” möchten wir KI-Technologien niedrigschwellig für das Ehrenamt nutzbar machen.
+MANUEL steht für:
+Minimale  
+AI für  
+Nutzer-  
+Unterstützung auf  
+Einstiegs-  
+Level.  
+
+Zu diesem Zweck soll ein kompakter, energieeffizienter Mac mini (oder ein vergleichbares Modell) mit integrierter GPU für lokale KI-Anwendungen angeschafft werden. So kann ein Large Language Model datenschutzfreundlich lokal betrieben werden. Als Laufzeitumgebung wird unter anderem die Open-Source-Software Ollama eingesetzt.
+
+Das LLM wird in Zammad integriert und unterstützt als „Level-0-Support“ bei der Erstdiagnose, Kategorisierung von Anfragen sowie bei der Erstellung von Reparaturanleitungen im Wiki und durch Vorschläge für Lösungsansätze.
+
+So wird Wissen dokumentiert und zugänglich gemacht. Gleichzeitig werden neue Engagierte befähigt, sich auch ohne Vorkenntnisse einzubringen. Das Projekt verbindet digitale Innovation mit praktischem Ehrenamt und stärkt die lokale Gemeinschaft.
 
 ### Durchführungszeitraum von
 
