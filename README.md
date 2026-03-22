@@ -174,8 +174,9 @@ Die/ der Antragstellende erklärt, dass
 
 Es können noch 30 Dokument(e) oder 150.00 MB hochgeladen werden.
 
-| Dateibeschreibung | Dateiname | Dateigröße | Bearbeiten |
-| :---------------- | :-------- | :--------- | :--------- |
+| Dateibeschreibung | Dateiname |     |
+| :---------------- | :-------- | --- |
+|  Mac mini kaufen  | Screenshot 2026-03-22 at 08-59-57 Mac mini M4 Chip 10‑Core CPU 10‑Core GPU 32 GB Arbeitsspeicher 256 GB Speicher kaufen - Apple (DE).png | ![](./Screenshot%202026-03-22%20at%2008-59-57%20Mac%20mini%20M4%20Chip%2010‑Core%20CPU%2010‑Core%20GPU%2032%20GB%20Arbeitsspeicher%20256%20GB%20Speicher%20kaufen%20-%20Apple%20(DE).png)
 
 Keine Einträge vorhanden
 
