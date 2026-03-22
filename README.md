@@ -46,7 +46,7 @@ post@makerspace-gt.de
 
 ### Website
 
-makerspace-gt.de
+https://makerspace-gt.de
 
 ### Kontoinhaber
 
