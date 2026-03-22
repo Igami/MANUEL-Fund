@@ -94,7 +94,7 @@ Vorstand
 
 ### E-Mail
 
-michael@makerspace-gt.de
+post@makerspace-gt.de
 
 ## Maßnahmenangaben
 
