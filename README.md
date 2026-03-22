@@ -105,7 +105,7 @@ Der Makerspace Gütersloh e.V. ist eine offene Werkstatt, in der Maschinen und W
 
 Seit März 2019 veranstalten wir monatliche Repair Cafés in Kooperation mit der Stadtbibliothek Gütersloh. Bei diesen helfen wir dabei, defekte Gegenstände zu reparieren oder Linux zu installieren. Durch das gemeinsame Reparieren setzen wir ein Zeichen gegen die Wegwerfgesellschaft und für einen schonenden Umgang mit Ressourcen.
 
-Seit November 2022 nutzen wir das Ticketsystem Zammad zur Organisation unserer Termine. Es hat sich als zentrale Plattform für die Kommunikation mit Dritten sowie zur Dokumentation von Reparaturergebnissen etabliert und kommt auch bei anderen Veranstaltungen wie dem Maustag zum Einsatz.
+Seit November 2022 nutzen wir das Ticketsystem Zammad zur Organisation unserer Termine. Es hat sich als zentrale Plattform für die Kommunikation mit Dritten sowie zur Dokumentation von Reparaturergebnissen etabliert und kommt auch bei anderen Veranstaltungen wie den »Türen auf mit der Maus« zum Einsatz.
 
 Mit dem Projekt »MANUEL« möchten wir unser Engagement durch KI unterstützen.  
 MANUEL steht für:  
