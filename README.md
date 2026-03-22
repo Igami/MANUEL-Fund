@@ -116,7 +116,7 @@ Unterstützung auf
 Einstiegs-  
 Level.
 
-Manuel soll als Level-0-Support bei der Kategorisierung und Erstdiagnose von Anfragen und Vorschlägen für Lösungsansätze, bei der statistischen Aufbereitung von Reparaturen sowie bei der Erstellung von Reparaturanleitungen im Wiki unterstützen. Das befähigt neue Engagierte, sich mit wenigen Vorkenntnissen direkt einzubringen. Wir verbinden digitale Innovation mit praktischem Ehrenamt, um die lokale Gemeinschaft zu stärken.
+MANUEL soll als Level-0-Support bei der Kategorisierung und Erstdiagnose von Anfragen unterstützen. Sie soll Lösungsansätze vorschlagen und Reparaturanleitungen im Wiki erstellen. Das befähigt neue Engagierte, sich mit wenigen Vorkenntnissen direkt einzubringen. So verbinden wir digitale Innovation mit praktischem Ehrenamt, um die lokale Gemeinschaft zu stärken. Zudem kann sie die Ergebnisse statistisch aufbereiten.
 
 Zu diesem Zweck soll ein Mac mini M4 gekauft werden. Aufgrund der Neural Engine Cores ist dies eine kostengünstige Option, um ein Large Language Model lokal und datenschutzfreundlich zu betreiben. Als Laufzeitumgebung für LLMs und als Schnittstelle zu Zammad kommt die Open-Source-Software Ollama zum Einsatz.
 
