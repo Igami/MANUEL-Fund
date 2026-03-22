@@ -54,12 +54,15 @@ Makerspace Gütersloh e.V.
 
 ### IBAN
 
+DE52 4786 0125 1226 2315 00
 
 ### BIC
 
+GENODEM1GTL
 
 ### Kreditinstitut
 
+Volksbank in Ostwestfalen eG
 
 ## Vertretungsberechtigte Person
 
